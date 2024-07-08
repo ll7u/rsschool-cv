@@ -125,7 +125,7 @@ main :not(.Contacts) ul {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: var(--Cornsilk-color);
+  color: var(--DarkCyan-color);
   border-bottom: 2px solid var(--Cornsilk-color);
 }
 .columnright img {
@@ -133,7 +133,7 @@ main :not(.Contacts) ul {
   margin-right: 15px;
 }
 .columnright p {
-  color: var(--Cornsilk-color);
+  color: var(--DarkCyan-color);
 }
 .éducation p {
   margin-left: 45px;
